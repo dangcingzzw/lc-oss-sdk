@@ -1,5 +1,5 @@
 {
-	"name" : "lc-oss-sdk",
+	"name" : "lcsdk/lc-oss-sdk",
 	"description" : "OBS PHP SDK",
 	"license":"Apache-2.0",
 	"version":"3.22.6",
